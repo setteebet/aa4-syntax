@@ -1,0 +1,18 @@
+{
+  "name": "aa4-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "cat888✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"cat888",
+"เว็บออนไลน์หวย",
+"lottovip เข้าไม่ได้",
+"โปรโมชั่นเว็บหวย",
+"สมัครเอเย่นต์ lottovip"
+],
+  "repository": "https://github.com/setteebet/aa4-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
